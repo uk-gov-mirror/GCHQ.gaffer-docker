@@ -1,5 +1,12 @@
 # Gaffer Docker
 
+## This project has been archived
+**This project has been archived and is no longer under active maintenance. Should you have any questions or require further information, please do not hesitate to reach out to us at the following email address.**
+
+**oss@gchq.gov.uk**
+
+---
+
 This repo contains the code needed to run Gaffer using Docker or Kubernetes.
 There are two main sub-folders, 'docker' and 'kubernetes', which contain the
 project files you need for starting Gaffer using those services.
